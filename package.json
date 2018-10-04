@@ -1,0 +1,19 @@
+{
+  "name": "unimo",
+  "version": "1.0.0",
+  "description": "unimo library for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "unimo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likeconan/react-avatar-image-cropper.git"
+  },
+  "author": "Conan Lee",
+  "license": "MIT"
+}
